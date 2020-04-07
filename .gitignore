@@ -1,6 +1,6 @@
 #added for checking from mac
-.DS_Store
-.ipynb_checkpoints/
+**/.DS_Store
+**/.ipynb_checkpoints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
